@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # opsview plugin to check solr cloud server status
+# add comments
   
 CURL=/usr/bin/curl
 exitcode=0
