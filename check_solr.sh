@@ -3,6 +3,7 @@
 # opsview plugin to check solr cloud server status
 # add comments
 # do modification on branch
+#
   
 CURL=/usr/bin/curl
 exitcode=0
